@@ -1,0 +1,10 @@
+{
+  "name": "Hilo Stats Card",
+  "description": "Une carte Lovelace personnalisée pour afficher les statistiques Hilo dans Home Assistant.",
+  "render_readme": true,
+  "type": "module",
+  "version": "0.0.1",
+  "homeassistant": "2021.12.0",
+  "categories": ["Lovelace"],
+  "keywords": ["hacs", "lovelace", "homeassistant", "hilo", "stats"]
+}
